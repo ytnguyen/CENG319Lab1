@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ynguyenassignment1</string>
+    <string name="display">Demo</string>
+    <string name="ynguyen">Simple Resources</string>
+
+    <string-array name="activity">
+        <item>AiActivity</item>
+        <item>VrActivity</item>
+    </string-array>
+</resources>
